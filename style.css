@@ -1,0 +1,67 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+
+}
+
+body{
+
+    background: url("shop.png");
+    background-position: right;
+    height: 100vh;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    
+}
+
+
+.menu-bar{
+
+    background: rgb(2, 0, 100);
+    text-align: center;
+    list-style-type: none;
+    
+}
+
+.menu-bar ul{
+
+    display: inline-flex;
+    list-style: none;
+    color: white;
+}
+
+.menu-bar ul li{
+
+    width: 120px;
+    margin: 15px;
+    padding: 15px;
+    
+}
+.arrow{
+
+    cursor: pointer;
+}
+
+h1{
+    margin-top: 50px;
+    padding-right: 20px;
+    margin-left: 50px;
+    text-shadow: thistle;
+    color: blue;
+}
+
+h3{
+
+    font-size: 25px;
+    padding-right: 20px;
+    margin-left: 50px;
+    margin-top: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif
+
+}
+
+
+
